@@ -10,3 +10,5 @@ all midi files in piano-e-competition
 페달 없애는 대신에 음들을 페달 반영해서 다 늘리는 코드는 파이썬으로 짬 `python/MIDI_Pedal.py`
 
 실행해서 나온 파일들은 `: midi`에 있음
+
+![image](https://user-images.githubusercontent.com/94269897/193013925-fcde1b39-aba5-4008-9085-a0813f072ca6.png)
