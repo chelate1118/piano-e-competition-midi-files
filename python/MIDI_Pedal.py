@@ -27,9 +27,8 @@ class _pedal:
 
 
 class _midiObj:
-    pedalRange = []
-
     def __init__(self, path: str):
+        self.pedalRange = []
         self.midi = pretty_midi.PrettyMIDI(path)
         self.midi.remove_invalid_notes()
         self.__concatenate()
